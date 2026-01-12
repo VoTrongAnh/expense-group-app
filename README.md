@@ -80,5 +80,3 @@ Hệ thống được thiết kế theo mô hình **Client – Server**, chia th
 Tất cả các dịch vụ được kết nối thông qua **Docker Network**, giúp hệ thống dễ triển khai, bảo trì và mở rộng.
 
 ---
-
-## 📁 7. Cấu trúc thư mục
